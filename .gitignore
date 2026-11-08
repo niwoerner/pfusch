@@ -1,8 +1,4 @@
-node_modules
-*.sqlite
-*.sqlite-shm
-*.sqlite-wal
-.DS_Store
-
-# Local data dirs
-# data/
+node_modules/
+dist/
+/state/
+/.pfusch/
